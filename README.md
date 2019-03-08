@@ -3,7 +3,7 @@ These are text manipulation tools which I use for different purposes. I used to 
  
 Also, this is one of my test project to gain experience and new skills.
 
-The script was written with Jquery, Vanilla Javascript, HTML and CSS.
+The script was written with Jquery (library), Javascript, HTML and CSS.
 
 # Usage: 
 
