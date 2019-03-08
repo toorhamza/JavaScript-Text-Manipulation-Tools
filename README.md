@@ -13,7 +13,7 @@ You can test the live version here: https://toorhamza.github.io/text-manipulatio
 
 If you are going to use these tools a lot then it is recommended to host them on your own server. The above link is just a demo version where script could be tested.
 
-#Tools
+# Tools
 Currently, there are 8 text manipulation tools:
 1. Duplicate Text Line Remover (Removes duplicate text lines)
 2. Find and Replace (Finds a specific text and replaces it with some other text)
