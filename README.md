@@ -1,5 +1,7 @@
 # text-manipulation-tools
-One of my test project to gain experience and new skills. These are text manipulation tools which I use for different purposes. 
+ These are text manipulation tools which I use for different purposes. I used to use some of them with the help of Notepad++ until I finally decided to create my own script to make it more easier for me to use them.
+ 
+Also, this is one of my test project to gain experience and new skills.
 
 The script was written with Jquery, Vanilla Javascript, HTML and CSS.
 
