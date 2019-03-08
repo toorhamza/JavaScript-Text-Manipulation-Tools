@@ -1,11 +1,11 @@
 # text-manipulation-tools
- These are text manipulation tools which I use for different purposes. I used to use some of them with the help of Notepad++ until I finally decided to create my own script to make it more easier for me to use them.
+These are text manipulation tools which I use for different purposes. I used to use some of them with the help of Notepad++ until I finally decided to create my own script to make it more easier for me to use them.
  
 Also, this is one of my test project to gain experience and new skills.
 
 The script was written with Jquery, Vanilla Javascript, HTML and CSS.
 
-Usage: 
+# Usage: 
 
 Just copy and paste all the files into your public_html folder and then access it using your domain name or your server ip-address.
 
@@ -13,6 +13,7 @@ You can test the live version here: https://toorhamza.github.io/text-manipulatio
 
 If you are going to use these tools a lot then it is recommended to host them on your own server. The above link is just a demo version where script could be tested.
 
+#Tools
 Currently, there are 8 text manipulation tools:
 1. Duplicate Text Line Remover (Removes duplicate text lines)
 2. Find and Replace (Finds a specific text and replaces it with some other text)
