@@ -1,4 +1,4 @@
-# text-manipulation-tools
+# Text-Manipulation-Tools 
 These are text manipulation tools which I use for different purposes. I used to use some of them with the help of Notepad++ until I finally decided to create my own script to make it more easier for me to use them.
  
 Also, this is one of my test project to gain experience and new skills.
